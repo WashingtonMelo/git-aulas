@@ -1,4 +1,5 @@
 Primeira modificação do arquivo
 Aqui está a modificação que foi feita por mim.
 Novo dado adicionado.
+Alterando merge 3
 
